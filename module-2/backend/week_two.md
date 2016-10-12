@@ -5,26 +5,22 @@ Fork this respository. Answer the questions to the best of your ability. Try to 
 Note: When you're done, submit a PR. 
 
 1. At a high level, what is ActiveRecord? What does it do/allow you to do?
-2. What is a migration?
-3. How does a table relate to a model?
-4. What kind of methods are `belongs_to`, and `has_many`? (i.e. class or instance) Give an example.
-5. What do they allow you to do?
-6. What's the difference between agile workflow and waterfall method?
-7. What is the difference between `#new` and `#create`?
-8. At a basic level, what does cURL allow you to do?
-9. In a database that's holding students and teachers, what will be the relationship between students and teachers? Draw the schema diagram.
-10. Define foreign key, primary key, and schema.
-11. Describe the relationship between a foreign key on one table and a primary key on another table.
-12. What are the parts of an HTTP response?
-13. `Rack::Test` allows us to test our controllers in isolation. What are some of the methods it gives us to simulate the request/response cycle?
-14. Describe some techniques to make our Sinatra views more DRY. Give an example of when you would use these techniques.
+2. What kind of methods are `belongs_to`, and `has_many`? (i.e. class or instance) Give an example.
+3. What do they allow you to do?
+4. What's the difference between agile workflow and waterfall method?
+5. What is the difference between `#new` and `#create`?
+6. At a basic level, what does cURL allow you to do?
+7. In a database that's holding students and teachers, what will be the relationship between students and teachers? Draw the schema diagram.
+8. Define foreign key, primary key, and schema.
+9. Describe the relationship between a foreign key on one table and a primary key on another table.
+10. What are the parts of an HTTP response?
+11. Describe some techniques to make our Sinatra code more DRY. Give an example of when you would use these techniques.
 
 
 ### Optional Questions
 
 1. Name your five favorite ActiveRecord methods (i.e. methods your models inherit from ActiveRecord) and describe what they do.
 2. Name your three favorite ActiveRecord rake tasks and describe what they do.
-3. What's the difference between agile workflow and waterfall method?
 4. What can you expect from a group as you begin working together? As you continue working together?
 5. What two columns does `t.timestamps null: false` create in our database?
 6. What cURL flag can you use to send a `POST` request?
