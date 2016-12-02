@@ -30,3 +30,5 @@ Note: When you're done, submit a PR.
 18. What's a migration? 
 19. When you create a migration, does it automatically modify your database?
 20. How does a model relate to a database?
+21. What's the difference between agile workflow and waterfall method?
+22. What is the difference between `#new` and `#create`?
