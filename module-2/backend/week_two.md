@@ -12,7 +12,7 @@ class Team << ActiveRecord::Base
 end
 ```
 
-What are some methods can you call on `Team`? If these methods aren't defined in the class, how do you have access to them?
+What are some methods you can call on `Team`? If these methods aren't defined in the class, how do you have access to them?
 
 3. Assume that in your database, a team has the following attributes: "id", "name", owner_id". How would you find the name of a team with an id of 4? Assuming your class only included the code from question 2, how could you find the owner of the same team?
 
