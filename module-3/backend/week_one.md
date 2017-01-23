@@ -8,3 +8,4 @@ Note: When you're done, submit a PR.
 2. What's the difference between `joins` and `includes` in ActiveRecord?
 3. What's an API?
 4. How do we test an internal API (in general)?
+5. What are two different ways to customize your `json`?
