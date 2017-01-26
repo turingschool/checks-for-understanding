@@ -17,7 +17,7 @@ Note: When you're done, submit a PR.
   end
   ```
 
-8. In the same code block, how would I pass a local variable `name` with a value of `Mr. Ed`?
+8. In the same code block, how would I pass a local variable `name` with a value of `Mr. Ed` to the view?
 9. What's the purpose of ERB?
 10. Why do I need a development AND test database?
 11. What's responsive design?
