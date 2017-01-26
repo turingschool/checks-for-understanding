@@ -25,7 +25,7 @@ Note: When you're done, submit a PR.
 13. What does HTTP stand for? 
 14. What are the two ways to interpolate Ruby in an ERB view template? What's the difference between these two ways?
 15. What's an ORM?
-16. What's the most commonly used ORM in ruby (Sinatra & Rails?
+16. What's the most commonly used ORM in ruby (Sinatra & Rails)?
 17. Let's say we have an application with restaurants. There are seven verb + path combinations necessary to provide full CRUD functionality for our restaurant application. List each of the seven combinations, and explain what each is for.
 18. What's a migration? 
 19. When you create a migration, does it automatically modify your database?
