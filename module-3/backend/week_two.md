@@ -8,4 +8,5 @@ Note: When you're done, submit a PR.
 * What are some advantages/disadvantages of implementing OAuth?
 * How many exhanges of information need to take place before a user is authenticated with OAuth?
 * Why do we want to create services?
+* Why is it good practice to create PORO's with the data received from an API?
 * What do we use VCR for? Why is a good idea to use this tool?
