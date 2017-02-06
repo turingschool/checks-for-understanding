@@ -26,12 +26,11 @@ end
 
 Now how would you find the owner of the team with an id of 4?
 
-3. What do they allow you to do?
-7. In a database that's holding students and teachers, what will be the relationship between students and teachers? Draw the schema diagram.
-8. Define foreign key, primary key, and schema.
-9. Describe the relationship between a foreign key on one table and a primary key on another table.
-10. What are the parts of an HTTP response?
-11. Describe some techniques to make our Sinatra code more DRY. Give an example of when you would use these techniques.
+5. In a database that's holding students and teachers, what will be the relationship between students and teachers? Draw the schema diagram.
+6. Define foreign key, primary key, and schema.
+7. Describe the relationship between a foreign key on one table and a primary key on another table.
+8. What are the parts of an HTTP response?
+9. Describe some techniques to make our Sinatra code more DRY. Give an example of when you would use these techniques.
 
 
 ### Optional Questions
