@@ -19,7 +19,7 @@ Note: When you're done, submit a PR.
 9. Writing Files: given a text file located at "/Documents/pizza.txt", write code to read the file from the filesystem, then    write a new file at "/Documents/line_count.txt" containing the number of lines in the original file.  
 
 #### Self Assessment  
-Rate yourself on the following scale.
+Rate yourself on the following scale.  
 4 I know and understand all these concepts and did not have to look anything up  
 3 I know and understand most of these concepts but had to look something up  
 2 I am uncertain about some of these concepts and had to look some things up ^^  
