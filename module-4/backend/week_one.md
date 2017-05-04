@@ -17,6 +17,6 @@ Note: When you're done, submit a PR.
 11. What's `npm` and what do we use it for?
 
 #### Review  
-6. What's the MVC design pattern? Describe each part of MVC?
-7. What is AJAX? What are some benefits of using AJAX?
-8. What's a background worker? When would we want to use a background worker?
+12. What's the MVC design pattern? Describe each part of MVC?
+13. What is AJAX? What are some benefits of using AJAX?
+14. What's a background worker? When would we want to use a background worker?
