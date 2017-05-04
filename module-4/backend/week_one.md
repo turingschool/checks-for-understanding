@@ -9,11 +9,12 @@ Note: When you're done, submit a PR.
 3. What are some tools you need in order to unit test your JavaScript?
 4. What is the syntax for invoking a function?
 5. What's the difference between `==` and `===` in JavaScript?
-6. What's a callback function and what are some reasons when we use/need callback functions?
-7. What's a promise?
-8. What's the biggest difference between a promise and a callback?
-9. How do we setup a route when creating an API with Node and Express?
-10. What's `npm` and what do we use it for?
+6. What's the difference between asynchronous and synchronous JavaScript? 
+7. What's a callback function and what are some reasons when we use/need callback functions?
+8. What's a promise?
+9. What's the biggest difference between a promise and a callback?
+10. How do we setup a route when creating an API with Node and Express?
+11. What's `npm` and what do we use it for?
 
 #### Review  
 6. What's the MVC design pattern? Describe each part of MVC?
