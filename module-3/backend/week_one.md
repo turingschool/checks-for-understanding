@@ -5,10 +5,19 @@ Fork this respository. Answer the questions to the best of your ability. Try to 
 Note: When you're done, submit a PR. 
 
 1. What is `json`, what does it stand for, and why is it important?
-2. What's the difference between `joins` and `includes` in ActiveRecord?
-3. What's an API?
-4. How do we test an internal API (in general)?
-5. What are two different ways to customize your `json`?  
+1. What kind of object is JSON in Ruby? How do we know it's JSON?
+1. What's the difference between `joins` and `includes` in ActiveRecord?
+1. What's an API?
+1. How do we test an internal API (in general)?
+1. What are two different ways to customize your `json`?
+1. If the the methods below return collections, what object (class) will they return? What kind of objects will be returned inside of that object?
+   * `.find_by_sql`
+   * `.connection.execute`
+   * `.where`
+1. (Security) What is SQL injection? When can it happen? How can you prevent it?
+1. What do you need to do differently when you adding `POST`, `PUT`, and `DELETE` endpoints to your API when using the `--api` flag when creating a Rails app versus not using the flag?
+   * Hint: What class does `ApplicationController` inherit from when creating a Rails project with the `--api` flag? What about without the `--api` flag? What do they do differently? Why?
+1. What's your process for solving advanced SQL or ActiveRecord lookups?
 
 #### Review  
 6. What is an ORM, what does it stand for, and why is it helpful?  
