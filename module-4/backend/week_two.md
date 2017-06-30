@@ -10,12 +10,13 @@ Note: When you're done, submit a PR.
 4. What's the deal with semi-colons in JavaScript?
 5. How are you using the MVC design pattern in your Quantified Self project?
 6. How do you execute raw SQL in node?
-7. What is CORS?
-8. What are some steps to avoid CORS?
+7. What's a callback function and what are some reasons when we use/need callback functions?
+8. What is CORS?
+9. What are some steps to avoid CORS?
 
 #### Review  
 
-9. Why do people say "HTTP is stateless"?
-10. What is a RESTful API?
-11. What are some main characteristics of a team following an agile workflow?
-12. What are some advantages/disadvantages to using OAuth to authenticate a user?
+10. Why do people say "HTTP is stateless"?
+11. What is a RESTful API?
+12. What are some main characteristics of a team following an agile workflow?
+13. What are some advantages/disadvantages to using OAuth to authenticate a user?
