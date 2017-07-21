@@ -5,8 +5,6 @@ Fork this respository. Answer the questions to the best of your ability. Try to 
 Note: When you're done, submit a PR. 
 
 * What's the purpose of a project management tool?
-* What are the stages of a card when using Pivotal Tracker?
-* What are the four types of cards available in Pivotal Tracker?
 * What's your favorite project management tool?
 * Why do we create staging environments?
 * What are the characteristics of a good README (in your opinion)?
