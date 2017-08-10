@@ -4,18 +4,18 @@ Fork this respository. Answer the questions to the best of your ability. Try to 
 
 Note: When you're done, submit a PR. 
 
-1. What is Webpack and why is it useful?
-2. When do you want to use event delegation?
-3. What's one difference between ES5 and ES6?
-4. How are you using the MVC design pattern in your Quantified Self project?
-5. How do you execute raw SQL in node?
+1. What's one difference between ES5 and ES6?
+2. What's the difference between asynchronous and synchronous JavaScript? 
+3. What are the four pillars of Object Oriented programming?
+4. What are some tools available in JavaScript to help you write object oriented code?
+5. What are some key concepts to be aware of when refactoring your JavaScript?
 6. What's a callback function and what are some reasons when we use/need callback functions?
-7. What is CORS?
-8. What are some steps to avoid CORS?
+7. What's the scope of variables in Javascript?
+8. What's the difference between `==` and `===` in JavaScript?
 
 #### Review  
 
 9. Why do people say "HTTP is stateless"?
-10. What is a RESTful API?
+10. Describe a RESTful API.
 11. What are some main characteristics of a team following an agile workflow?
-12. What are some advantages/disadvantages to using OAuth to authenticate a user?
+12. What are some advantages **and** disadvantages to using OAuth to authenticate a user?
