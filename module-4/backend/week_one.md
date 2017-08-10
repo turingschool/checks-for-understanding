@@ -8,8 +8,8 @@ Note: When you're done, submit a PR.
 2. What are some tools to help debug JavaScript code?
 3. What are some tools you need in order to unit test your JavaScript?
 4. What is the syntax for invoking a function?
-5. What's the difference between `==` and `===` in JavaScript?
-6. What's the scope of variables in Javascript?
+5. What is CORS?
+6. How do we enable CORS?
 7. What's `this` in JavaScript?
 8. What is Webpack and why is it useful?
 9. When/why do you want to use event delegation?
