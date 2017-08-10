@@ -12,10 +12,11 @@ Note: When you're done, submit a PR.
 6. What's a callback function and what are some reasons when we use/need callback functions?
 7. What's the scope of variables in Javascript?
 8. What's the difference between `==` and `===` in JavaScript?
+9. Why do front end frameworks exist?
 
 #### Review  
 
-9. Why do people say "HTTP is stateless"?
-10. Describe a RESTful API.
-11. What are some main characteristics of a team following an agile workflow?
-12. What are some advantages **and** disadvantages to using OAuth to authenticate a user?
+10. Why do people say "HTTP is stateless"?
+11. Describe a RESTful API.
+12. What are some main characteristics of a team following an agile workflow?
+13. What are some advantages **and** disadvantages to using OAuth to authenticate a user?
