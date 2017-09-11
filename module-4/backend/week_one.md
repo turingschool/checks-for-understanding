@@ -13,10 +13,9 @@ Note: When you're done, submit a PR.
 7. What's `this` in JavaScript?
 8. What is Webpack and why is it useful?
 9. When/why do you want to use event delegation?
-10. What is a callback function?
-11. What's `npm` and what do we use it for?
+10. What's `npm` and what do we use it for?
 
 #### Review  
-12. What's the MVC design pattern? Describe each part of MVC.
-13. What are a few ways to optimize a Rails application?
-14. What's a background worker? When would we want to use a background worker?
+11. What's the MVC design pattern? Describe each part of MVC.
+12. What are a few ways to optimize a Rails application?
+13. What's a background worker? When would we want to use a background worker?
