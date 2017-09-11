@@ -5,7 +5,7 @@ Fork this respository. Answer the questions to the best of your ability. Try to 
 Note: When you're done, submit a PR. 
 
 1. At a high level, what is Node?
-2. What is Express? Why is Express similar to in the Ruby world?
+2. What is Express? What is Express similar to in the Ruby world?
 3. How do we setup a route when creating an API with Node and Express? Please provide a code snippet.
 4. What do we use Knex for?
 5. How could you organize your code to follow the MVC design pattern in your Quantified Self project?
