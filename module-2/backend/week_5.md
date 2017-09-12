@@ -2,17 +2,13 @@
 
 2. Where is cart information/temporary information usually stored?
 
-3. How do we use sessions/cookies to maintain state between HTTP requests?
+3. What might be some reasons not to store cart in our database? Are there any reasons why we would want to persist that information?
 
-4. What is the difference between a session and a cookie?
+4. What is the purpose of the asset pipeline?
 
-5. What might be some reasons not to store cart in our database? Are there any reasons why we would want to persist that information?
+5. Why do we precompile our assets?
 
-6. What is the purpose of the asset pipeline?
-
-7. Why do we precompile our assets?
-
-8. What do each of the following tags do?
+6. What do each of the following tags do?
 
 ```ruby 
 <%= stylesheet_link_tag "application" %>
@@ -20,16 +16,16 @@
 <%= image_tag "rails.png" %>
 ```
 
-9. What are some of the elements of a great read me? What are some of the benefits of taking the time to update a readme for our project?
+7. What are some of the elements of a great read me? What are some of the benefits of taking the time to update a readme for our project?
 
-10. What are the top four accessibility issues that we as developers should be aware of?
+8. What are the top four accessibility issues that we as developers should be aware of?
 
-11. `before_save` is an example of a what? Where in our Rails application would we find a `before_save`?
+9. `before_save` is an example of a what? Where in our Rails application would we find a `before_save`?
 
-12. Given the following object, how would we create a scope for all users who are active?
+10. Given the following object, how would we create a scope for all users who are active?
 
 ```ruby 
 User.create(name: "Happy", active: true)
 ```
 
-13. What is the difference between a scope and a class method?
+11. What is the difference between a scope and a class method?
