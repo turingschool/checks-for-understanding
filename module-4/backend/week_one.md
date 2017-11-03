@@ -7,7 +7,7 @@ Note: When you're done, submit a PR.
 1. What's the most useful thing you learned from completing the intermission week work?
 2. What are some tools to help debug JavaScript code?
 3. What are some tools you need in order to unit test your JavaScript?
-4. What is the syntax for invoking a function?
+4. What is the syntax for invoking a function? Give an example.
 5. What's `this` in JavaScript?
 6. What is Webpack and why is it useful?
 7. When/why do you want to use event delegation?
