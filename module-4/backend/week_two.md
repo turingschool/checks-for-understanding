@@ -10,7 +10,7 @@ Note: When you're done, submit a PR.
 4. What are some tools available in JavaScript to help you write object oriented code?
 5. What are some key concepts to be aware of when refactoring your JavaScript?
 6. What's a callback function and what are some reasons when we use/need callback functions?
-7. What's the scope of variables in Javascript?
+7. What are the different scopes of variables in Javascript? When would you want to define global variables?
 8. What's the difference between `==` and `===` in JavaScript?
 9. Why do front end frameworks exist?
 
