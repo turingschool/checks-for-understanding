@@ -10,10 +10,10 @@ Note: When you're done, submit a PR.
 4. What's one main improvement you're going to make to your code regarding accessibility issues?
 5. What are some basic security concerns to be aware of when building applications?
 6. Why is continuous integration helpful/important?
-7. What are some continuous integration tools?
+7. What are some pros/cons of using ReactJS as a frontend tool?
 
 #### Review  
 
 8. What are some characteristics of "good" git workflow?
-9. What are the four fundamental concepts of object oriented programming?
-10. What's a module in Ruby and what's the difference between a class and a module?
+9. Describe each of the four fundamental concepts of object oriented programming.
+10. What's a module in Ruby? What's the difference between a class and a module? What are some good use cases for modules?
