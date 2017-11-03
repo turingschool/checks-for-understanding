@@ -8,7 +8,7 @@ Note: When you're done, submit a PR.
 2. What is Express? What is Express similar to in the Ruby world?
 3. How do we setup a route when creating an API with Node and Express? Please provide a code snippet.
 4. What do we use Knex for?
-5. How could you organize your code to follow the MVC design pattern in your Quantified Self project?
+5. How **could** you organize your code to follow the MVC design pattern in your Quantified Self project?
 6. How do you execute raw SQL in node?
 7. What are some advantages to having your front end and back end code live in separate applications? What are some disadvantages?
 
@@ -16,4 +16,4 @@ Note: When you're done, submit a PR.
 
 8. Describe DNS.
 9. What does writing clean code mean to you?
-10. If you were building an application that models hotels, what classes would you need? What classes would be responsible for what functionality?
+10. If you were building an application that models hotels, what classes would you need? What classes would be responsible for what functionality? Hint: think about what tables you would need in the database, how those records would relate to each other, and good OOP.
