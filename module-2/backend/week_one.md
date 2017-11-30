@@ -31,7 +31,7 @@ Note: When you're done, submit a PR.
 19. How does a model relate to a database?
 20. What is the difference between `#new` and `#create`?
 
-Review Questions:
+Review Questions:  
 21. Given a CSV file (“films.csv”) with these headers [id, title, description], how would you load these into your database to create new instances of Film?  
 22. Given the following hash:
 ```
