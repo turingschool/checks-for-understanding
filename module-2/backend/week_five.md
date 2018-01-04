@@ -32,16 +32,16 @@ User.create(name: "Happy", active: true)
 11. What is the difference between a scope and a class method?
 
 
-Review Questions:
-12. Given the following hash:
+Review Questions:  
+12. Given the following hash:  
 
 ```ruby
 {cart: {"17" => 4, "204" => 52, "29" => 22}}
 ```
 
-  12a. How would you add item with id of 48 with a quantity of 4?
-  12b. How would you increase the quantity of item 29?
-  12c. How would you find out how many items your user is thinking about purchasing? 
+  12a. How would you add item with id of 48 with a quantity of 4?  
+  12b. How would you increase the quantity of item 29?  
+  12c. How would you find out how many items your user is thinking about purchasing?   
   
-13. What is polymorphism? How does it relate to duck-typing? What are two ways you use this in everyday Rails applications?
-14. How would you clean the string "(630) 854-5483" to "630.854.5483"?
+13. What is polymorphism? How does it relate to duck-typing? What are two ways you use this in everyday Rails applications?  
+14. How would you clean the string "(630) 854-5483" to "630.854.5483"?  
