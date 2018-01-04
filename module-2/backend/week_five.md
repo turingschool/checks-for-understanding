@@ -2,7 +2,7 @@
 
 2. Where is cart information/temporary information usually stored?
 
-3. What might be some reasons not to store cart in our database? Are there any reasons why we would want to persist that information?
+3. What might be some reasons not to store a cart in our database? Are there any reasons why we would want to persist that information?
 
 4. What is the purpose of the asset pipeline?
 
