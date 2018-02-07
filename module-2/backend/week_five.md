@@ -1,4 +1,9 @@
-Questions from Week 5:
+### Week 5 Questions
+
+Re-pull from this respository. Answer the questions to the best of your ability. Try to answer them with limited amount of external research. These questions cover the majority of what we've learned this week (which is a TON!). 
+
+Note: When you're done, submit a PR. 
+
 1. How do we make flash messages display on a page?
 
 2. Where is cart information/temporary information usually stored?
@@ -32,7 +37,7 @@ User.create(name: "Happy", active: true)
 11. What is the difference between a scope and a class method?
 
 
-Review Questions:  
+### Review Questions:  
 12. Given the following hash:  
 
 ```ruby
@@ -45,3 +50,16 @@ Review Questions:
   
 13. What is polymorphism? How does it relate to duck-typing? What are two ways you use this in everyday Rails applications?  
 14. How would you clean the string "(630) 854-5483" to "630.854.5483"?  
+
+
+### Self Assessment:
+Choose One:
+* I was able to answer every question without relying on outside resources
+* I was able to answer most questions independently, but utilized outside resources for a few
+* I was able to answer a few questions independently, but relied heavily on outside resources 
+
+Choose One:
+* I feel confident about the content presented this week
+* I feel comfortable with the content presented this week
+* I feel overwhelmed by the content presented this week
+* I feel quite lost by the content presented this week
