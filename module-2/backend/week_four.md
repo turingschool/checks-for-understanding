@@ -7,7 +7,7 @@ Try to answer them with limited amount of external research. These questions cov
 
 Note: When you're done, submit a PR with a reflection in the comments about how this exercise went for you.
 
-### Questions
+### Week 4 Questions
 
 1. What is a cookie?
 2. What’s the difference between a session and a cookie?
@@ -23,7 +23,7 @@ Note: When you're done, submit a PR with a reflection in the comments about how 
 12. What are some strategies you can use to keep your views DRY?
 
 
-Reviews Questions 
+### Reviews Questions 
 13. Given the following array of hashes, how would I print an alphabetical list of holidays?
 ```ruby
 [
@@ -33,3 +33,16 @@ Reviews Questions
 ]
 ```  
 14. How would you clean incoming data to ensure "$300" or "300.00" is stored as 300? 
+
+
+### Self Assessment:
+Choose One:
+* I was able to answer every question without relying on outside resources
+* I was able to answer most questions independently, but utilized outside resources for a few
+* I was able to answer a few questions independently, but relied heavily on outside resources 
+
+Choose One:
+* I feel confident about the content presented this week
+* I feel comfortable with the content presented this week
+* I feel overwhelmed by the content presented this week
+* I feel quite lost by the content presented this week
