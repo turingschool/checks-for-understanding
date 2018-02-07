@@ -1,7 +1,7 @@
 ## Week Four Recap
 
 ### Instructions
-Fork this repository. Answer the questions to the best of your ability.
+Fork or re-pull this repository. Answer the questions to the best of your ability.
 
 Try to answer them with limited amount of external research. These questions cover the majority of what we've learned this week.
 
