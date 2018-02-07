@@ -4,6 +4,9 @@ Fork this respository. Answer the questions to the best of your ability. Try to 
 
 Note: When you're done, submit a PR.
 
+
+### Week 2 Questions
+
 1. At a high level, what is ActiveRecord? What does it do/allow you to do?
 2. Assume you have the following model:
 
@@ -43,3 +46,15 @@ Now how would you find the owner of the team with an id of 4?
 7. Describe and diagram the relationship between patients and doctors.
 8. Describe and diagram the relationship between museums and original_paintings.
 9. What could you see in your code that would make you think you might want to create a partial?
+
+### Self Assessment:
+Choose One:
+* I was able to answer every question without relying on outside resources
+* I was able to answer most questions independently, but utilized outside resources for a few
+* I was able to answer a few questions independently, but relied heavily on outside resources 
+
+Choose One:
+* I feel confident about the content presented this week
+* I feel comfortable with the content presented this week
+* I feel overwhelmed by the content presented this week
+* I feel quite lost by the content presented this week
