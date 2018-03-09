@@ -1,11 +1,11 @@
 ## Week Three - Module 4 Recap
 
-Fork this respository. Answer the questions to the best of your ability. Try to answer them with limited amount of external research. These questions cover the majority of what we've learned this week.
+Fork this repository. Answer the questions to the best of your ability. Try to answer them with limited amount of external research. These questions cover the majority of what we've learned this week.
 
 Note: When you're done, submit a PR.
 
 1. At a high level, what is Node?
-2. 
+2. What is Express?
 3. How do we setup a route when creating an API with Node and Express? Please provide a code snippet.
 4. What do we use Knex for?
 5. How **could** you organize your code to follow the MVC design pattern in your Quantified Self project?
@@ -16,4 +16,19 @@ Note: When you're done, submit a PR.
 
 8. Describe DNS.
 9. What does writing clean code mean to you?
-10. If you were building an application that models hotels, what classes would you need? What classes would be responsible for what functionality? Hint: think about what tables you would need in the database, how those records would relate to each other, and good OOP.
+10. If you were building an application that models hotels, what classes would you need? What classes would be responsible for what functionality? Hint: think about what tables you would need in the database, how those records would relate to each other, and good OOP. You should answer this as thoroughly as you would in an interview (hint hint).
+
+## Self Assessment:
+
+Choose One:
+
+* I was able to answer every question without relying on outside resources
+* I was able to answer most questions independently, but utilized outside resources for a few
+* I was able to answer a few questions independently, but relied heavily on outside resources
+
+Choose One:
+
+* I feel confident about the content presented this week
+* I feel comfortable with the content presented this week
+* I feel overwhelmed by the content presented this week
+* I feel quite lost by the content presented this week
