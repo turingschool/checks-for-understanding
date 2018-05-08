@@ -8,10 +8,10 @@ Note: When you're done, submit a PR.
 
 1. List the five common HTTP verbs and what the purpose is of each verb.
 2. What is Sinatra?
-4. What is MVC?
-5. Why do we follow conventions when creating our actions/path names in our Sinatra routes?
-6. What types of variables are accessible in our view templates without explicitly passing them?
-7. Given the following block of code, how would I pass an instance variable `count` with a value of `1` to my `index.erb` template?
+3. What is MVC?
+4. Why do we follow conventions when creating our actions/path names in our Sinatra routes?
+5. What types of variables are accessible in our view templates without explicitly passing them?
+6. Given the following block of code, how would I pass an instance variable `count` with a value of `1` to my `index.erb` template?
   
   ```ruby
   get '/horses' do
@@ -19,23 +19,23 @@ Note: When you're done, submit a PR.
   end
   ```
 
-8. In the same code block, how would I pass a local variable `name` with a value of `Mr. Ed` to the view?
-9. What's the purpose of ERB?
-10. Why do I need a development AND test database?
-11. What is CRUD and why is it important?
-12. What does HTTP stand for? 
-13. What are the two ways to interpolate Ruby in an ERB view template? What's the difference between these two ways?
-14. What's an ORM?
-15. What's the most commonly used ORM in ruby (Sinatra & Rails)?
-16. Let's say we have an application with restaurants. There are seven verb + path combinations necessary to provide full CRUD functionality for our restaurant application. List each of the seven combinations, and explain what each is for.
-17. What's a migration? 
-18. When you create a migration, does it automatically modify your database?
-19. How does a model relate to a database?
-20. What is the difference between `#new` and `#create`?
+7. In the same code block, how would I pass a local variable `name` with a value of `Mr. Ed` to the view?
+8. What's the purpose of ERB?
+9. Why do I need a development AND test database?
+10. What is CRUD and why is it important?
+11. What does HTTP stand for? 
+12. What are the two ways to interpolate Ruby in an ERB view template? What's the difference between these two ways?
+13. What's an ORM?
+14. What's the most commonly used ORM in ruby (Sinatra & Rails)?
+15. Let's say we have an application with restaurants. There are seven verb + path combinations necessary to provide full CRUD functionality for our restaurant application. List each of the seven combinations, and explain what each is for.
+16. What's a migration? 
+17. When you create a migration, does it automatically modify your database?
+18. How does a model relate to a database?
+19. What is the difference between `#new` and `#create`?
 
 ### Review Questions:  
-21. Given a CSV file (“films.csv”) with these headers [id, title, description], how would you load these into your database to create new instances of Film?  
-22. Given the following hash:
+20. Given a CSV file (“films.csv”) with these headers [id, title, description], how would you load these into your database to create new instances of Film?  
+21. Given the following hash:
 ```
 activities = {
   hiking: {cost: $0, supplies: ['hiking shoes', 'water', 'compass']},
@@ -45,7 +45,7 @@ activities = {
 }
 ```
 How would I add 'granola bar' to things you should have when hiking?
-23. What are the 4 Principles of OOP? Give a one sentence explanation of each.
+22. What are the 4 Principles of OOP? Give a one sentence explanation of each.
 
 
 ### Self Assessment:
