@@ -1,8 +1,8 @@
 ## Week One - Module 2 Recap
 
-Fork this respository. Answer the questions to the best of your ability. Try to answer them with limited amount of external research. These questions cover the majority of what we've learned this week (which is a TON!). 
+Fork this respository. Answer the questions to the best of your ability. Try to answer them with limited amount of external research. These questions cover the majority of what we've learned this week (which is a TON!).
 
-Note: When you're done, submit a PR. 
+Note: When you're done, submit a PR.
 
 ### Week 1 Questions
 
@@ -17,7 +17,7 @@ Note: When you're done, submit a PR.
 5. What types of variables are accessible in our view templates without explicitly passing them?
 
 6. Given the following block of code, how would I pass an instance variable `count` with a value of `1` to my `index.erb` template?
-  
+
   ```ruby
   get '/horses' do
     erb :index
@@ -32,7 +32,7 @@ Note: When you're done, submit a PR.
 
 10. What is CRUD and why is it important?
 
-11. What does HTTP stand for? 
+11. What does HTTP stand for?
 
 12. What are the two ways to interpolate Ruby in an ERB view template? What's the difference between these two ways?
 
@@ -42,7 +42,7 @@ Note: When you're done, submit a PR.
 
 15. Let's say we have an application with restaurants. There are seven verb + path combinations necessary to provide full CRUD functionality for our restaurant application. List each of the seven combinations, and explain what each is for.
 
-16. What's a migration? 
+16. What's a migration?
 
 17. When you create a migration, does it automatically modify your database?
 
@@ -50,11 +50,22 @@ Note: When you're done, submit a PR.
 
 19. What is the difference between `#new` and `#create`?
 
+20. Given a table named `animals`, What is the SQL query that will return all info from that table?
+    `id     name        number_of_legs
+    -----   ------      --------------
+      1     panda       4
+      2     giraffe     4
+      3     whale       0
+      4     bird        2
+    `
+
+21. Using the same table, What is the SQL query that will return only the animals that has 4 legs?
+
 
 ### Review Questions:  
-20. Given a CSV file (“films.csv”) with these headers [id, title, description], how would you load these into your database to create new instances of Film?  
+22. Given a CSV file (“films.csv”) with these headers [id, title, description], how would you load these into your database to create new instances of Film?  
 
-21. Given the following hash:
+23. Given the following hash:
 ```
 activities = {
   hiking: {cost: $0, supplies: ['hiking shoes', 'water', 'compass']},
@@ -65,14 +76,14 @@ activities = {
 ```
 How would I add 'granola bar' to things you should have when hiking?
 
-22. What are the 4 Principles of OOP? Give a one sentence explanation of each.
+24. What are the 4 Principles of OOP? Give a one sentence explanation of each.
 
 
 ### Self Assessment:
 Choose One: (erase the others)
 * I was able to answer every question without relying on outside resources
 * I was able to answer most questions independently, but utilized outside resources for a few
-* I was able to answer a few questions independently, but relied heavily on outside resources 
+* I was able to answer a few questions independently, but relied heavily on outside resources
 
 Choose One:
 * I feel confident about the content presented this week

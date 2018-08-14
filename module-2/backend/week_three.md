@@ -19,26 +19,31 @@ Note: When you're done, submit a PR with a reflection in the comments about how 
 8. What are strong params and why are they necessary?
 9. What role does `form_for` play in helping us create our forms?
 10. How does `form_for` know where to submit the user's input?
-11. Create a form using a `form_for` helper to create a new `Horse`. 
+11. Create a form using a `form_for` helper to create a new `Horse`.
 12. Why do we want to validate our models?
 13. What are the steps of the DNS lookup?
 
-
 ### Review Questions
-14. How would you call the method `prance` from within the method `move` on a `Horse` instance?
-15. Given the following hash:
+14. Within a feature test and given the following HTML, write the code necessary to target the following section and check the person's name?
+
+  `<section id="personal-info">
+    <h3><%= @person.name%></h3>
+   </section>
+  `
+15. How would you call the method `prance` from within the method `move` on a `Horse` instance?
+16. Given the following hash:
 
 ```ruby
 furniture = {table: {height: 3, color: "red"}, purchased: true}
 ```
 What is the different between how you would return true vs returning 3?  
-16. What is inheritance?
+17. What is inheritance?
 
 ### Self Assessment:
 Choose One:
 * I was able to answer every question without relying on outside resources
 * I was able to answer most questions independently, but utilized outside resources for a few
-* I was able to answer a few questions independently, but relied heavily on outside resources 
+* I was able to answer a few questions independently, but relied heavily on outside resources
 
 Choose One:
 * I feel confident about the content presented this week
